@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "giantsInline";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/giantsInline/giantsInline.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/giantsInline/giantsInline.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/giantsInline/giantsInline.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/giantsInline/giantsInline.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/giantsInline/giantsInline.ttf") format("truetype");
+    font-display: swap;
+} 
+.giantsInline {
+    font-family: "giantsInline";
+}
