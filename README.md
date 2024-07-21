@@ -1,5 +1,5 @@
 # giantsInline
-자이언츠인라인체
+자이언츠 인라인체
 
 <pre>
 @font-face {
